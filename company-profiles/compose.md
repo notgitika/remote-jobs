@@ -2,10 +2,29 @@
 
 ## Company blurb
 
-⚠ We don't have much information about this company yet!
+Compose is a Database-as-a-Service company that offers fully-managed platforms used by developers to deploy, host, and scale databases. 
+It was founded in 2010, previously known as MongoHQ, and has been acquired by IBM in 2015, becoming a part of the IBM Cloud group.
 
-If you know something we don't, help us fill it in!  Here's how:
+## Company size
 
-- Read our [Contributing Guidelines](https://github.com/remoteintech/remote-jobs/blob/master/CONTRIBUTING.md)
-- Have a look at our [example company profile](https://github.com/remoteintech/remote-jobs/blob/master/company-profiles/example.md)
-- Follow the structure of the example profile and [send us a pull request with your changes to this file!](https://github.com/remoteintech/remote-jobs/edit/master/company-profiles/compose.md)
+1 - 50 employees
+
+## Remote status
+
+Compose is remote-friendly and occasionally offers work-from-home job opportunities.
+
+## Region
+
+USA, Canada, UK.
+
+## Company technologies
+
+MongoDB, Redis, PostgreSQL, MySQL, Elasticsearch, ScyllaDB, RabbitMQ, etcd, RethinkDB.
+
+## Office location
+
+San Mateo, CA.
+
+## How to apply
+
+They will most likely have job listings on their [website](www.compose.com), or you can email them at hello@compose.com or jobs@compose.io. 
